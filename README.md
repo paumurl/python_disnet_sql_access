@@ -1,6 +1,7 @@
 # python_disnet_sql_access
 Programmatic access to the DISNET database (https://disnet.ctb.upm.es/) using the python script practicasBBDD.py\
 Upon running the script, a visual menu will appear to facilitate access and further queries to users not familiar with SQL.
+Different inputs (for example: a drug name you may want to look up) will be required in a user-friendly way for the already available (menu of) queries.
 
 Imported python modules for this: 
 - sys, 
@@ -21,7 +22,7 @@ Information and tools provided by this programmatic access:
 8. Modifications
 
 ...
-### MySQL queries 
+### MySQL queries provided
 Query 1A: 
 ```
 SELECT
